@@ -10,8 +10,6 @@ A self-hosted proxy setup that runs inside GitHub Codespaces.
 4. Wait a few minutes for the environment to build and initialize
 5. Your connection string will appear in the terminal once setup is complete
 
-![output](./docs/screenshot.png)
-
 ## Connecting
 
 Grab the link printed in the terminal and paste it into any compatible client (v2rayNG, Nekobox, etc.).
